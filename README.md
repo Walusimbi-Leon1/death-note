@@ -16,5 +16,5 @@ By Walusimbi Leon (SGSS)
 
 ---
 
-- **0 chapters** · **3,604+ words** · **Version 1.0**
+- **0 chapters** · **5,128+ words** · **Version 1.0**
 - **License:** CC0 1.0 Universal (Public Domain)
